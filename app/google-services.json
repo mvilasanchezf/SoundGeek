@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359841168534",
+    "project_id": "soundgeek-1ca07",
+    "storage_bucket": "soundgeek-1ca07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359841168534:android:411617aed8cf30bc5a56b7",
+        "android_client_info": {
+          "package_name": "com.example.soundgeek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359841168534-qstnl7162jt1ucqpkpdjhnucms0qpisj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeL-jFqNBeB6PwHB-KmQFOYPX-8vCQ3xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359841168534-qstnl7162jt1ucqpkpdjhnucms0qpisj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
