@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">SoundGeek</string>
+    <string name="app_name">Shuffle de Emergencia</string>
+    <string name="instructions"> Ordena la palabra mostrada en pantalla </string>
+    <string name="skip">Rendirse</string>
+    <string name="submit">Enviar</string>
+    <string name="score">Puntuacion: %d</string>
+    <string name="word_count">%d de 10 intentos</string>
+    <string name="enter_your_word">Introduce tu palabra</string>
+    <string name="congratulations">¡Enhorabuena!</string>
+    <string name="you_scored">"Puntuacion: %d"</string>
+    <string name="exit">Terminar</string>
+    <string name="play_again">Otra partida</string>
+    <string name="wrong_guess">¡Error!</string>
 </resources>
